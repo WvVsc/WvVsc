@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do WvVsc 😁
+## Bem-vindo(a) ao perfil do WvVsc
 
  <div>
    <a href="https://github.com/WvVsc">
